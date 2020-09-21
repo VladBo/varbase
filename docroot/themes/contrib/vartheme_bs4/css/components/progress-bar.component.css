@@ -1,0 +1,16 @@
+.progress-wrapper {
+  margin-bottom: 1rem;
+}
+
+.progress-wrapper:last-child .progress {
+  margin-bottom: 5px;
+}
+
+.progress-wrapper .message {
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+.progress-wrapper .progress-bar {
+  min-width: 2em;
+}
